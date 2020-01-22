@@ -15,8 +15,7 @@
     }
   ],
   "dependencies": {
-    "name": " PCF857X",
-    "authors": "microset",
+    "name": "PCF857X",
     "frameworks": "arduino"
   },
   "version": "0.1",
